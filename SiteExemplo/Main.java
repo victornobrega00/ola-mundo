@@ -6,10 +6,12 @@ public class Main {
         System.out.println("One more test in GitHub web");
         System.out.printl("mais um teste");
         System.out.printl("usando o github web");
+        System.out.println(+soma(a, b));
     }
 
     public class double soma(double a, double b){
 
         return a + b;
     }
+
 }
