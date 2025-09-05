@@ -7,4 +7,9 @@ public class Main {
         System.out.printl("mais um teste");
         System.out.printl("usando o github web");
     }
+
+    public class double soma(double a, double b){
+
+        return a + b;
+    }
 }
