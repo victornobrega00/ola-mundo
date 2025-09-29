@@ -6,6 +6,7 @@ public class Main {
     public static int idade (int anoAtual, int anoNascimento){
         return anoAtual - anoNascimento;
     }
+
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
